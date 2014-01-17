@@ -80,7 +80,7 @@ private:
 		int value = val(scope);
 		while (current() == '*') {
 			next();
-			value += val(scope);
+			value *= val(scope);
 		}
 		return value;
 	}
