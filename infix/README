@@ -1,3 +1,5 @@
-test z 20.1.2014
+Test z 20.1.2014
 
-úkolem je načíst číslo m a výraz f v infixu (+, *, ( a ), jediná proměnná x) a zjistit pro která čísla z rozsahu 1..m je f % m == 0
+Úkolem je načíst číslo m a výraz f v infixu (+, *, závorky, jediná proměnná x) a zjistit pro která celá čísla x z rozsahu 0..m je f(x) % m == 0.
+
+Zadání bylo myšleno na řešení hrubou silou, jen výraz to chtělo předzpracovat, abychom pořád neanalyzovali řetězce.
