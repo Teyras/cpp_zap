@@ -1,0 +1,26 @@
+a	petr	bel	123
+a	petr	bel	124
+a	a	a	124
+a	a	ah	124
+#a	petr	bel	123
+a	ota	bel	45
+a	a	beloh	124
+a	a	belh	124
+a	b	beloh	124
+a	a	belohl	124
+a	b	belohl	124
+a	eva	bel	123
+a	a	belo	124
+a	a	bex	124
+a	a	ccc	124
+a	a	xelo	124
+a	a	lo	124
+a	a	xelohl	124
+#d	petr	bel	124
+#d	petr	bel	125
+#d	petr	bel	124
+?	bel
+?	bel*h
+?	bel*
+?	*lo
+q
